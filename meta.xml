@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>bahmanfast2</id>
+  <name>bahmanfast2</name>
+  <description>Locate and patch sitefile FAST_MODE</description>
+  <version>1.0.0</version>
+  <release>1</release>
+  <vendor>local</vendor>
+</module>
